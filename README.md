@@ -1,6 +1,6 @@
 # Arduino
 Arduinoに関するあれこれ
 
-## Arduino_Tutorial
+## Arduino_tutorial
 - Arduinoのチュートリアルソースコード
   - Arduinoをはじめよう 第3版 (Make:PROJECTS)
